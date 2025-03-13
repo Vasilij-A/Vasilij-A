@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Vasilij-A
 - 👀 I’m interested in computers.
-- 🌱 I’m currently learning CS 50 course.
+- 🌱 I’m currently learning С++, Python and etc... )
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+      mail: afon321@gmail.com
+      telegram: @VasilijAgafonov
 
 <!---
 Vasilij-A/Vasilij-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
